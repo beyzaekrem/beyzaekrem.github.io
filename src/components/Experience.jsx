@@ -6,7 +6,7 @@ const experiences = [
     type: 'work',
     title: 'Intern',
     company: 'Rheinische Friedrich-Wilhelms-Universität Bonn – Bonn, Germany',
-    period: '01/07/2026 – 01/09/2026',
+    period: 'Jul 2026 – Sep 2026',
     description:
       'Worked on React, JavaScript, HTML/CSS, UI/UX Design, Figma, WebSockets, Real-Time Data Visualization, Dashboard Redesign, Component Refactoring, Volumetric Capture Monitoring, and Git in a research and development environment.',
     tags: [
@@ -26,7 +26,7 @@ const experiences = [
   {
     type: 'work',
     title: 'Intern',
-    company: 'Konya Metropolitan Municipality',
+    company: 'Konya Metropolitan Municipality - Konya, Turkey',
     period: 'Jun 2025 – Jul 2025',
     description:
       'Worked on Flutter, Dart, Firebase, Widget Architecture, State Management, UI/UX, REST API, JSON, and Responsive Design.',
@@ -35,7 +35,7 @@ const experiences = [
   {
     type: 'education',
     title: 'Trainee',
-    company: 'Baslangic Noktasi Akademi | Be Node',
+    company: 'Baslangic Noktasi Akademi | Be Node - Turkey',
     period: 'Feb 2024 – Dec 2024',
     description:
       'Training in Data Literacy, Fundamentals of Artificial Intelligence, Digital Ethics, Digital Transformation, and Technology Literacy.',
@@ -44,7 +44,7 @@ const experiences = [
   {
     type: 'work',
     title: 'Sponsorship Team Member',
-    company: 'TurkStudentCo Volunteer Student Community',
+    company: 'TurkStudentCo Volunteer Student Community - Turkey',
     period: 'Sep 2024 – Nov 2024',
     description:
       'Corporate Communication, Sponsorship Management, Negotiation & Persuasion, Teamwork, and Event Coordination.',
@@ -53,7 +53,7 @@ const experiences = [
   {
     type: 'work',
     title: 'Social Media Coordinator',
-    company: 'KTUN Microelectronics Design & Development Community (MITAGET)',
+    company: 'KTUN Microelectronics Design & Development Community (MITAGET) - Konya, Turkey',
     period: 'Mar 2024 – May 2024',
     description:
       'Social Media Management, Content Creation, Canva, Visual Design, Digital Communication, and Target Audience Analysis.',
@@ -62,7 +62,7 @@ const experiences = [
   {
     type: 'education',
     title: 'Trainee',
-    company: 'YGA – Empowering Women Program',
+    company: 'YGA – Empowering Women Program - Istanbul,Turkey',
     period: 'Feb 2024 – May 2024',
     description:
       'Empathy, Leadership, Active Listening, Community Communication, Self-Awareness, and Social Impact Awareness.',
@@ -71,7 +71,7 @@ const experiences = [
   {
     type: 'education',
     title: 'Trainee',
-    company: 'YetGen – 21st Century Skills Program',
+    company: 'YetGen – 21st Century Skills Program - Istanbul, Turkey',
     period: 'Sep 2022 – Dec 2022',
     description:
       'Effective Presentation, Teamwork, Project Development, Entrepreneurship, Social Innovation, and Ideathon Participation.',
