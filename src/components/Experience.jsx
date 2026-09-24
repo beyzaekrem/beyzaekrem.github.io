@@ -1,8 +1,8 @@
 import { FiBriefcase, FiAward } from 'react-icons/fi'
 import './Experience.css'
 
-const experiences = [
-    {
+const experiences = [    
+  {
     type: 'work',
     title: 'Intern',
     company: 'Rheinische Friedrich-Wilhelms-Universität Bonn – Bonn, Germany',
