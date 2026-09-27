@@ -5,6 +5,7 @@ export const JOURNAL_CATEGORIES = [
 ]
 
 export const journalEntries = [
+/*
   {
     id: 1,
     date: '2026-09-27',
@@ -47,4 +48,5 @@ export const journalEntries = [
     github: '',
     demo: '',
   },
+  */
 ]
