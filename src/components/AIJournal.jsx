@@ -51,7 +51,7 @@ function AIJournal() {
           Learning <span className="gradient-text">marathon</span>
         </h2>
         <p className="section-subtitle">
-          90 günlük yapay zeka ve veri bilimi notları: günlük projeler, makale özetleri ve kısa öğrenme kayıtları.
+          Yapay zeka ve veri bilimi notları: günlük projeler, makale özetleri ve kısa öğrenme kayıtları.
         </p>
 
         <div className="journal__filters" role="tablist" aria-label="Journal categories">
@@ -70,7 +70,7 @@ function AIJournal() {
         </div>
 
         {entries.length === 0 ? (
-          <p className="journal__empty">Bu kategoride henüz girdi yok.</p>
+          <p className="journal__empty">Yükleniyor...</p>
         ) : (
           <div className="journal__timeline">
             {entries.map((entry, index) => {
